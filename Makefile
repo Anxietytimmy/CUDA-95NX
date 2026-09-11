@@ -43,7 +43,7 @@ SOURCES		:=	source source/DK3D source/shaders
 DATA		:=	data
 INCLUDES	:=	include
 ROMFS		:=	romfs
-APP_TITLE   :=  CUDA-95HOS
+APP_TITLE   :=  CUDA-95NX
 APP_AUTHOR  :=  ClunkerBlunker
 APP_VERSION :=  0.1
 
