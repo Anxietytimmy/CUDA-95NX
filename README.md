@@ -2,7 +2,8 @@
 - A Stress Testing Utility for the Nintendo Switch.
 - This tool is designed to fully stress and stability test the GPU inside the Nintendo Switch.
 - This tool can and will cause extreme stress to the GPU and its power delivery components if sufficiently clocked. 
-- If using for stability testing, use Core with 64 repeats at high temperatures. 
+- If using for GPU testing, Core is preferable, however L2 is more sensitive to errors. However, since L2 does not draw as much power, lower temperatures are expected, reducing accuracy.
+- This tool can also be used to test memory, however it is more of a side effect. If testing memory, use Balanced, as Mem is too slow.
 
 # Modes
 - 4 Profiles, Balanced, Core, Mem, and L2
